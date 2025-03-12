@@ -1,0 +1,5 @@
+#Ignore TF State Files
+*.terraform.*
+*terraform.*
+terraform.*
+.terraform\*
