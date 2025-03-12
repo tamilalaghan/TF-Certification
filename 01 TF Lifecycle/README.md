@@ -29,6 +29,7 @@ resource "local_file" "daisy"{
     filename = "daisy.txt"
     content = "I smile under the sun :), I don't like rain."
 }
+
 ```
 Terraform Plan
 ![alt text](image-4.png)
