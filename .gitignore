@@ -1,0 +1,3 @@
+# TF State Files
+.terraform/*
+.terraform.*
