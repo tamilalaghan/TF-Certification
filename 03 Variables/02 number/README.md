@@ -1,6 +1,6 @@
 Execute
 
-strings.tf
+numbers.tf
 ```js
 resource "local_file" "numbers_file" {
     filename = var.numbers_file_fname
