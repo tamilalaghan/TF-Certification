@@ -1,0 +1,5 @@
+variable "content" {  
+}
+
+variable "fname" {  
+}
