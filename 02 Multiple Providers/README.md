@@ -1,12 +1,12 @@
 
-Init
+Terraform Init
 ![alt text](image.png)
 
-Plan
+Terraform Plan
 ![alt text](image-1.png)
 
-Apply
+Terraform Apply
 ![alt text](image-2.png)
 
-Show
+Terraform Show
 ![alt text](image-3.png)
